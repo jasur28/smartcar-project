@@ -46,12 +46,12 @@
 Для сборки мобильного приложения использовались следующие компоненты:
 
 Инструмент	Версия
-Qt	6.9.1
-Android NDK	27.2.12479018
-Build-tools	35.0.0
-Cmdline-tools	latest
-CMake	3.22.1
-Android Platforms	android-31, android-35
+- Qt	6.9.1
+- Android NDK	27.2.12479018
+- Build-tools	35.0.0
+- Cmdline-tools	latest
+- CMake	3.22.1
+- Android Platforms	android-31, android-35
 
 ---
 
