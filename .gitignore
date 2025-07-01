@@ -1,0 +1,10 @@
+*.pro.user
+*.o
+*.obj
+*.log
+build/
+.qtc/
+.idea/
+*.apk
+*.aab
+.DS_Store
